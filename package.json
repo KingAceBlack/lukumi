@@ -1,0 +1,14 @@
+{
+  "name": "bun-add-@neynar/nodejs-sdk",
+  "module": "touch index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@neynar/nodejs-sdk": "^2.33.1"
+  }
+}
